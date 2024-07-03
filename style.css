@@ -44,16 +44,16 @@ nav ul li a:hover {
 .hero {
     background: url('path_to_your_background_image.jpg') no-repeat center center/cover;
     text-align: center;
-    padding: 100px 20px;
+    padding: 50px 20px;
 }
 
 .hero h1 {
-    font-size: 3em;
+    font-size: 2.5em;
     margin: 0;
 }
 
 .hero p {
-    font-size: 1.5em;
+    font-size: 1.2em;
     margin: 20px 0;
 }
 
@@ -87,6 +87,7 @@ nav ul li a:hover {
     flex: 1;
     margin: 20px;
     max-width: 300px;
+    text-align: center;
 }
 
 .feature i {
@@ -110,6 +111,7 @@ nav ul li a:hover {
     border-radius: 10px;
     margin: 20px;
     max-width: 300px;
+    text-align: center;
 }
 
 .plan h3 {
@@ -124,6 +126,7 @@ nav ul li a:hover {
 .plan ul {
     list-style: none;
     padding: 0;
+    text-align: left;
 }
 
 .plan ul li {
@@ -153,7 +156,7 @@ nav ul li a:hover {
     margin: 0;
 }
 
-.footer {
+footer {
     text-align: center;
     padding: 20px 0;
     background-color: #1a1a40;
